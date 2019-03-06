@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    
+    <title>Oskar Rask Hjorth</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <div id="bannertop" class="section">
+            <div id="olbanner" class="picture4">
+                <img src="elementer/%C3%B8lbanner.png" alt="øl app for danske ølentusiaster" height="340" class="center">
+            </div>
+    </div>
+</head>
+    
+<body>
+    
+<div id="banner1" class="section">
+    <div id="open" class="picture1">
+    <img src="elementer/open.png" alt="øl i nærheden" height="168" class="center">
+    </div>
+    	Gennem applikationen kan du se hvilke restauranter vi har været i kontakt med for at forbedre udvalget af øl.
+     De vil selvfølgelig kun være synlige, hvis de har forbedret sig. Du kan også se barer, værtshuse og restauranter som andre medlemmer har besøgt og bedømt. For at en bar, restaurant, café, bodega eller værtshus dukker op på appen, skal du eller en anden oprette det. 
+</div>
+
+<div id="banner2" class="section">
+        <div id="review" class="picture1">
+    <img src="elementer/review.png" alt="ølanmeldelse" height="168" class="center">
+    </div>
+Med appen kan du anmelde øl og service skriftligt, give op til fem stjerner, og læse andres anmeldelser. Du kan også se en rangliste over brugernes favoritøl baseret på antal stjerner. 
+</div>
+    
+<div id="banner3" class="section">
+        <div id="news" class="picture3">
+    <img src="elementer/news.png" alt="øl i nærheden" height="168" class="center">
+    </div>
+Med nyhedsfunktionen får du en mobilvenlig oversigt over vores seneste nyheder. Du kan gemme artikler, som du vil læse senere, og med den seneste version af android og iOS kan du dele artiklen direkte fra appen.
+</div>    
+    
+</body>
+    
+</html>
